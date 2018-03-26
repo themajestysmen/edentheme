@@ -1,0 +1,32 @@
+/*
+ Theme Name:   Eden
+ Theme URI:    http://themajestysmen.com
+ Description:  A theme where almost anything you desire is possible, Eden is our primary theme for our network bloggers.
+ Author:       The Majesty's Men
+ Author URI:   http://themajestysmen.com
+ Template:     generatepress
+ Version:      0.1
+*/
+
+
+/* # Table of Contents
+----------------------------------------------------------------------------------------------------
+- Site Wide Elements
+	- Common Classes
+	- Fonts
+- 
+*/
+
+
+/* # Site Wide Elements
+--------------------------------------------- */
+
+/* ## Common Classes
+--------------------------------------------- */
+
+/*---Floating Effect---*/
+.majestic-floating-content {}
+
+
+/* ## Fonts
+--------------------------------------------- */
